@@ -28,6 +28,7 @@
         </Style>
     </Window.Resources>
 
+    
     <DockPanel>
         <TextBlock Style="{StaticResource Top}" Background="#FF9B29DC"/>
         <TextBlock Style="{StaticResource Left}" Background="#FF9B29DC"/>
